@@ -1,2 +1,4 @@
 # IlkKod
-Birden yirmiye (1-20) kadar olan sayılardan çift olanların küplerinin toplamını bulan java programı
+
+Merhaba ben Fatma Zehra. Yönetim Bilişim Sistemleri bölümü öğrencisiyim. Yazılım ve teknoloji alanında kendimi geliştirmeye çalışıyorum.
+
